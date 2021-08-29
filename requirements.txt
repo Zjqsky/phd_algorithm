@@ -1,0 +1,4 @@
+conda install flask
+conda install scikit-learn
+conda install panda
+

@@ -1,0 +1,5 @@
+lang,longitude,latitude
+zh_cn,113.941843,22.519442
+zh_cn,113.925738,22.511778
+weiwuer,87.616842,43.82539
+neimengyu,111.748426,40.842723
