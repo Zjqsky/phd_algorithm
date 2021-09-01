@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 from app import app, conf
 
 # 配置路由，不能删
