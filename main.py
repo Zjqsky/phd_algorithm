@@ -1,4 +1,5 @@
-# -*- coding: UTF-8 -*-
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
 from app import app, conf
 
 # 配置路由，不能删
